@@ -1,2 +1,2 @@
 # Projek-tim-Luminara
-Ini projek website PPDB MTS BINA CENDEKIA
+Ini projek website PPDB ------
